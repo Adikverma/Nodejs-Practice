@@ -1,0 +1,16 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "NodeJs Project",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Adi",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.10.0"
+  }
+}

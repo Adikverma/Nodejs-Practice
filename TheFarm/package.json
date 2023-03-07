@@ -1,0 +1,14 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "first node",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Adi",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
